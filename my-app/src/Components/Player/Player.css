@@ -1,0 +1,16 @@
+.Box{
+    font-size: 20px;
+    font-weight: bold;
+    width: 100%;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+     
+}
+.X{
+    color:red;
+    border-bottom: 2px solid red;
+}
+.O{
+    color:skyblue;
+    border-bottom: 2px solid skyblue;
+}

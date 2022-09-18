@@ -1,0 +1,9 @@
+.x{
+    color:red;
+    box-shadow: 2px 5px 15px red;
+}
+
+.o{
+    color:skyblue;
+   box-shadow: 2px 5px 15px rgb(49, 197, 255);
+}
